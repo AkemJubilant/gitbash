@@ -1,2 +1,1 @@
 who am i
-why
